@@ -112,7 +112,7 @@ class ComfortLevel extends StatelessWidget {
           text: const TextSpan(
             children: [
               TextSpan(
-                text: "Developed By: Deepanshu Rajput",
+                text: "Developed By: Deepanshu Rajput ",
                 style: TextStyle(
                     fontSize: 10,
                     height: 0.8,
